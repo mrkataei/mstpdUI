@@ -8,4 +8,6 @@ python ui.py  <br />
 enjoy  <br />
 for add bridge  <br />
 run this command  <br />
+<code>
 ip link add name swbridge type bridge vlan_filtering 1 stp_state 1
+</code>
